@@ -1,0 +1,61 @@
+about:
+  description: Bankr Skills equip builders with plug-and-play tools to build more powerful agents.
+  license: NOASSERTION
+  homepage: https://skills.bankr.bot/
+  head: 78f4ad9
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:22:52Z
+timeline:
+  created: 2026-01-26
+  lastCommit: 2026-08-28
+  lastRelease: ?
+popularity:
+  star: 1190
+  watcher: 16
+  fork: 599
+  release: 0
+  contributor: 74
+  pullRequest: 383
+  issue: 20
+language:
+  JavaScript: 251789
+  Shell: 219099
+  Python: 70335
+  CSS: 9156
+  TypeScript: 7849
+  PLpgSQL: 3094
+totalLine: 561322
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 25
+    openPR: 32
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 74
+    openPR: 107
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 156
+    openPR: 195
+    closedIssue: 2
+    openIssue: 8
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 188
+    openPR: 304
+    closedIssue: 2
+    openIssue: 18
+    commit: 0
