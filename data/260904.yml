@@ -1,22 +1,24 @@
 about:
-  description: Bankr Skills equip builders with plug-and-play tools to build more powerful agents.
+  description:
+  |
+    Bankr Skills equip builders with plug-and-play tools to build more powerful agents.
   license: NOASSERTION
   homepage: https://skills.bankr.bot/
-  head: e657d1c
+  head: 5fa7246
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T05:05:54Z
+  collectedAt: 2026-09-04T20:02:44Z
 timeline:
   created: 2026-01-26
-  lastCommit: 2026-08-31
-  lastRelease: ?
+  lastCommit: 2026-09-04
+  lastRelease: 
 popularity:
-  star: 1190
+  star: 1191
   watcher: 16
   fork: 611
   release: 0
   contributor: 77
-  pullRequest: 404
+  pullRequest: 600
   issue: 20
 language:
   JavaScript: 251789
@@ -25,37 +27,63 @@ language:
   CSS: 9156
   TypeScript: 7849
   PLpgSQL: 3094
-totalLine: 561322
+totalBytes: 561322
 recent:
   last30d:
     since: 2026-08-05
     release: 0
-    mergedPR: 25
+    mergedPR: 26
     openPR: 37
     closedIssue: 0
     openIssue: 1
-    commit: 35
+    commit: 36
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 43
+    openPR: 74
+    closedIssue: 1
+    openIssue: 1
+    commit: 74
   last90d:
     since: 2026-06-06
     release: 0
-    mergedPR: 73
+    mergedPR: 74
     openPR: 110
     closedIssue: 1
     openIssue: 1
-    commit: 166
+    commit: 167
   last180d:
     since: 2026-03-08
     release: 0
-    mergedPR: 157
+    mergedPR: 158
     openPR: 197
     closedIssue: 2
     openIssue: 8
-    commit: 347
+    commit: 348
   last360d:
     since: 2025-09-09
     release: 0
-    mergedPR: 195
+    mergedPR: 196
     openPR: 319
     closedIssue: 2
     openIssue: 18
-    commit: 411
+    commit: 412
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 196
+    openPR: 319
+    closedIssue: 2
+    openIssue: 18
+    commit: 576
+total:
+  release: 0
+  mergedPR: 196
+  openPR: 320
+  closedIssue: 2
+  openIssue: 18
+  commit: 576
+---
+---
+
