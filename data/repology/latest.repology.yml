@@ -1,0 +1,29 @@
+- repo: homebrew
+  srcname: skills
+  visiblename: skills
+  version: 1.5.25
+  origversion: null
+  status: newest
+  summary: Open agent skills ecosystem
+- repo: nix_stable_26_05
+  srcname: skills
+  visiblename: skills
+  version: 1.5.7
+  origversion: null
+  status: outdated
+  summary: The open agent skills tool
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: skills
+  visiblename: skills
+  version: 1.5.23
+  origversion: null
+  status: outdated
+  summary: The open agent skills tool
+  maintainers:
+    - wentworth@outlook.com
+  licenses:
+    - MIT
