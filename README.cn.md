@@ -4,7 +4,7 @@
 
 Bankr Skills equip builders with plug-and-play tools to build more powerful agents.
 
-![skills](https://repo.x-cmd.io/skills.svg)
+![skills](https://repo.x-cmd.io/skills.svg?lang=zh)
 
 ## 安装
 
@@ -55,4 +55,4 @@ skills 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:27:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:08:57Z._
