@@ -12,6 +12,18 @@ Bankr Skills equip builders with plug-and-play tools to build more powerful agen
 x install skills
 ```
 
+## Code insight
+
+Total: **82,326** lines of code across **374** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 58,170 | 0 | 0 | 207 |
+| JavaScript | 13,401 | 1,755 | 1,144 | 40 |
+| Sh | 5,162 | 644 | 750 | 87 |
+| Python | 2,248 | 70 | 383 | 14 |
+| Svg | 1,188 | 15 | 3 | 26 |
+
 ## Source
 
 - **Upstream**: <https://github.com/BankrBot/skills>
@@ -24,27 +36,27 @@ x install skills
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 200 · **Open PRs**: 322 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 596
+- **Releases**: 0 · **Merged PRs**: 201 · **Open PRs**: 321 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 26 | 30 | 0 | 2 | 46 |
-| 90d | 2026-06-12 | 0 | 73 | 106 | 1 | 2 | 174 |
-| 360d | 2025-09-15 | 0 | 200 | 321 | 2 | 19 | 428 |
+| 30d | 2026-08-11 | 0 | 27 | 29 | 0 | 2 | 47 |
+| last60d | 2026-07-12 | 0 | 44 | 63 | 1 | 2 | 79 |
+| 90d | 2026-06-12 | 0 | 74 | 105 | 1 | 2 | 175 |
+| last180d | 2026-03-14 | 0 | 161 | 194 | 2 | 9 | 344 |
+| 360d | 2025-09-15 | 0 | 201 | 320 | 2 | 19 | 429 |
+| last720d | 2024-09-20 | 0 | 201 | 320 | 2 | 19 | 598 |
 
-## Code size
+## Distribution status
 
-Total: **82,286** lines of code across **372** files in the top 5 languages.
+Reported by **3** distros on [repology.org](https://repology.org/project/skills). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 58,147 | 0 | 0 | 206 |
-| JavaScript | 13,401 | 1,755 | 1,144 | 40 |
-| Sh | 5,162 | 644 | 750 | 87 |
-| Python | 2,248 | 70 | 383 | 14 |
-| Svg | 1,171 | 15 | 3 | 25 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.5.25` | ✅ latest |
+| Nix unstable | `1.5.23` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -55,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:08:56Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:12:25Z._
