@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: skills
   visiblename: skills
-  version: 1.5.25
+  version: 1.5.26
   origversion: null
   status: newest
   summary: Open agent skills ecosystem
