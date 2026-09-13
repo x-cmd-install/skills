@@ -36,18 +36,18 @@ Total: **82,326** lines of code across **374** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 201 · **Open PRs**: 321 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 598
+- **Releases**: 0 · **Merged PRs**: 201 · **Open PRs**: 323 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 26 | 24 | 0 | 2 | 47 |
-| last60d | 2026-07-14 | 0 | 41 | 61 | 1 | 2 | 79 |
-| 90d | 2026-06-14 | 0 | 73 | 104 | 1 | 2 | 175 |
-| last180d | 2026-03-16 | 0 | 159 | 189 | 2 | 9 | 344 |
-| 360d | 2025-09-17 | 0 | 201 | 320 | 2 | 19 | 429 |
-| last720d | 2024-09-22 | 0 | 201 | 320 | 2 | 19 | 598 |
+| 30d | 2026-08-14 | 0 | 26 | 25 | 0 | 2 | 47 |
+| last60d | 2026-07-15 | 0 | 41 | 60 | 1 | 2 | 79 |
+| 90d | 2026-06-15 | 0 | 73 | 104 | 1 | 2 | 175 |
+| last180d | 2026-03-17 | 0 | 159 | 190 | 2 | 9 | 344 |
+| 360d | 2025-09-18 | 0 | 201 | 322 | 2 | 19 | 429 |
+| last720d | 2024-09-23 | 0 | 201 | 322 | 2 | 19 | 598 |
 
 ## Distribution status
 
@@ -55,7 +55,7 @@ Reported by **3** distros on [repology.org](https://repology.org/project/skills)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.5.25` | ✅ latest |
+| Homebrew | `1.5.26` | ✅ latest |
 | Nix unstable | `1.5.23` | ⚠️ outdated |
 
 ## Improve this data
@@ -67,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:24:27Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:38:43Z._
