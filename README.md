@@ -4,7 +4,7 @@
 
 Bankr Skills equip builders with plug-and-play tools to build more powerful agents.
 
-![skills](https://repo.x-cmd.io/skills.svg)
+[![x-cmd/install — skills Code Quality Monitoring Repo Card](https://repo.x-cmd.io/skills.svg)](https://x-cmd.com/install/skills)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install skills
 
 ## Code insight
 
-Total: **82,326** lines of code across **374** files in the top 5 languages.
+Total: **82,334** lines of code across **378** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 58,170 | 0 | 0 | 207 |
+| Json | 58,168 | 0 | 0 | 209 |
 | JavaScript | 13,401 | 1,755 | 1,144 | 40 |
-| Sh | 5,162 | 644 | 750 | 87 |
+| Sh | 5,130 | 625 | 743 | 86 |
 | Python | 2,248 | 70 | 383 | 14 |
-| Svg | 1,188 | 15 | 3 | 26 |
+| Svg | 1,230 | 17 | 5 | 29 |
 
 ## Source
 
@@ -32,22 +32,22 @@ Total: **82,326** lines of code across **374** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,198 · **Forks**: 621 · **Open issues**: 21 · **Contributors**: 80
+- **Stars**: 1,199 · **Forks**: 625 · **Open issues**: 21 · **Contributors**: 81
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 207 · **Open PRs**: 327 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 606
+- **Releases**: 0 · **Merged PRs**: 211 · **Open PRs**: 334 · **Closed issues**: 2 · **Open issues**: 19 · **Commits**: 616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 24 | 28 | 0 | 2 | 45 |
-| last60d | 2026-07-20 | 0 | 44 | 56 | 1 | 2 | 74 |
-| 90d | 2026-06-20 | 0 | 73 | 99 | 1 | 2 | 164 |
-| last180d | 2026-03-22 | 0 | 160 | 189 | 2 | 9 | 330 |
-| 360d | 2025-09-23 | 0 | 207 | 326 | 2 | 19 | 436 |
-| last720d | 2024-09-28 | 0 | 207 | 326 | 2 | 19 | 606 |
+| 30d | 2026-08-21 | 0 | 27 | 35 | 0 | 1 | 34 |
+| last60d | 2026-07-22 | 0 | 47 | 63 | 1 | 2 | 76 |
+| 90d | 2026-06-22 | 0 | 76 | 107 | 1 | 2 | 140 |
+| last180d | 2026-03-24 | 0 | 162 | 194 | 2 | 9 | 317 |
+| 360d | 2025-09-25 | 0 | 211 | 333 | 2 | 19 | 443 |
+| last720d | 2024-09-30 | 0 | 211 | 333 | 2 | 19 | 616 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:32:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:40Z._
