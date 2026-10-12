@@ -14,15 +14,15 @@ x install skills
 
 ## Code insight
 
-Total: **83,243** lines of code across **384** files in the top 5 languages.
+Total: **83,274** lines of code across **386** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 58,384 | 0 | 0 | 212 |
+| Json | 58,410 | 0 | 0 | 213 |
 | JavaScript | 14,088 | 1,760 | 1,158 | 42 |
 | Sh | 5,130 | 625 | 743 | 86 |
 | Python | 2,248 | 70 | 383 | 14 |
-| Svg | 1,236 | 18 | 5 | 30 |
+| Svg | 1,241 | 19 | 5 | 31 |
 
 ## Source
 
@@ -36,18 +36,18 @@ Total: **83,243** lines of code across **384** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 227 · **Open PRs**: 350 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 642
+- **Releases**: 0 · **Merged PRs**: 228 · **Open PRs**: 349 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 643
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 25 | 33 | 0 | 1 | 0 |
-| last60d | 2026-08-12 | 0 | 52 | 57 | 0 | 3 | 0 |
-| 90d | 2026-07-13 | 0 | 68 | 93 | 1 | 3 | 0 |
-| last180d | 2026-04-14 | 0 | 161 | 197 | 1 | 9 | 0 |
-| 360d | 2025-10-16 | 0 | 227 | 350 | 2 | 20 | 0 |
-| last720d | 2024-10-21 | 0 | 227 | 350 | 2 | 20 | 642 |
+| 30d | 2026-09-12 | 0 | 24 | 31 | 0 | 1 | 0 |
+| last60d | 2026-08-13 | 0 | 53 | 54 | 0 | 3 | 0 |
+| 90d | 2026-07-14 | 0 | 68 | 91 | 1 | 3 | 0 |
+| last180d | 2026-04-15 | 0 | 162 | 195 | 1 | 9 | 0 |
+| 360d | 2025-10-17 | 0 | 228 | 349 | 2 | 20 | 0 |
+| last720d | 2024-10-22 | 0 | 228 | 349 | 2 | 20 | 643 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:35:39Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:46:53Z._
