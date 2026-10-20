@@ -14,15 +14,15 @@ x install skills
 
 ## Code insight
 
-Total: **83,274** lines of code across **386** files in the top 5 languages.
+Total: **84,501** lines of code across **393** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 58,410 | 0 | 0 | 213 |
-| JavaScript | 14,088 | 1,760 | 1,158 | 42 |
+| Json | 58,732 | 0 | 0 | 218 |
+| JavaScript | 14,992 | 1,792 | 1,187 | 43 |
 | Sh | 5,130 | 625 | 743 | 86 |
 | Python | 2,248 | 70 | 383 | 14 |
-| Svg | 1,241 | 19 | 5 | 31 |
+| Svg | 1,242 | 19 | 5 | 32 |
 
 ## Source
 
@@ -32,22 +32,22 @@ Total: **83,274** lines of code across **386** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,204 · **Forks**: 650 · **Open issues**: 22 · **Contributors**: 82
+- **Stars**: 1,205 · **Forks**: 650 · **Open issues**: 22 · **Contributors**: 83
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 229 · **Open PRs**: 352 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 650
+- **Releases**: 0 · **Merged PRs**: 231 · **Open PRs**: 349 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 19 | 27 | 0 | 1 | 16 |
-| last60d | 2026-08-20 | 0 | 50 | 60 | 0 | 2 | 71 |
-| 90d | 2026-07-21 | 0 | 67 | 88 | 1 | 3 | 105 |
-| last180d | 2026-04-22 | 0 | 148 | 196 | 1 | 9 | 289 |
-| 360d | 2025-10-24 | 0 | 229 | 352 | 2 | 20 | 466 |
-| last720d | 2024-10-29 | 0 | 229 | 352 | 2 | 20 | 650 |
+| 30d | 2026-09-20 | 0 | 21 | 23 | 0 | 1 | 18 |
+| last60d | 2026-08-21 | 0 | 50 | 56 | 0 | 2 | 73 |
+| 90d | 2026-07-22 | 0 | 69 | 84 | 1 | 3 | 107 |
+| last180d | 2026-04-23 | 0 | 149 | 193 | 1 | 9 | 291 |
+| 360d | 2025-10-25 | 0 | 231 | 349 | 2 | 20 | 468 |
+| last720d | 2024-10-30 | 0 | 231 | 349 | 2 | 20 | 652 |
 
 ## Improve this data
 
@@ -58,4 +58,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:27:56Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:38:45Z._
