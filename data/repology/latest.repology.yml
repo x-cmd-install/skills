@@ -19,9 +19,9 @@
 - repo: nix_unstable
   srcname: skills
   visiblename: skills
-  version: 1.7.2
+  version: 1.7.4
   origversion: null
-  status: outdated
+  status: newest
   summary: The open agent skills tool
   maintainers:
     - wentworth@outlook.com
