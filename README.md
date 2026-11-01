@@ -32,31 +32,31 @@ Total: **84,501** lines of code across **393** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,208 · **Forks**: 665 · **Open issues**: 22 · **Contributors**: 85
+- **Stars**: 1,208 · **Forks**: 666 · **Open issues**: 22 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 241 · **Open PRs**: 373 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 656
+- **Releases**: 0 · **Merged PRs**: 241 · **Open PRs**: 375 · **Closed issues**: 2 · **Open issues**: 20 · **Commits**: 656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 18 | 35 | 0 | 1 | 19 |
-| last60d | 2026-09-01 | 0 | 43 | 62 | 0 | 2 | 60 |
-| 90d | 2026-08-02 | 0 | 71 | 99 | 0 | 3 | 111 |
-| last180d | 2026-05-04 | 0 | 151 | 210 | 1 | 9 | 297 |
-| 360d | 2025-11-05 | 0 | 241 | 373 | 2 | 20 | 480 |
-| last720d | 2024-11-10 | 0 | 241 | 373 | 2 | 20 | 656 |
+| 30d | 2026-10-02 | 0 | 15 | 35 | 0 | 1 | 19 |
+| last60d | 2026-09-02 | 0 | 43 | 61 | 0 | 2 | 60 |
+| 90d | 2026-08-03 | 0 | 71 | 99 | 0 | 3 | 111 |
+| last180d | 2026-05-05 | 0 | 149 | 211 | 1 | 9 | 297 |
+| 360d | 2025-11-06 | 0 | 241 | 375 | 2 | 20 | 480 |
+| last720d | 2024-11-11 | 0 | 241 | 375 | 2 | 20 | 656 |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/skills). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/skills). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `1.7.4` | ✅ latest |
-| Nix unstable | `1.7.2` | ⚠️ outdated |
+| Nix unstable | `1.7.4` | ✅ latest |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:21:18Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:51:18Z._
