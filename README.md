@@ -42,12 +42,12 @@ Total: **84,551** lines of code across **395** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 16 | 36 | 0 | 5 | 11 |
-| last60d | 2026-09-12 | 0 | 42 | 68 | 0 | 6 | 47 |
-| 90d | 2026-08-13 | 0 | 71 | 91 | 0 | 8 | 102 |
-| last180d | 2026-05-15 | 0 | 145 | 211 | 1 | 14 | 275 |
-| 360d | 2025-11-16 | 0 | 245 | 379 | 2 | 25 | 485 |
-| last720d | 2024-11-21 | 0 | 245 | 379 | 2 | 25 | 661 |
+| 30d | 2026-10-13 | 0 | 14 | 36 | 0 | 5 | 11 |
+| last60d | 2026-09-13 | 0 | 42 | 67 | 0 | 6 | 47 |
+| 90d | 2026-08-14 | 0 | 71 | 91 | 0 | 8 | 102 |
+| last180d | 2026-05-16 | 0 | 142 | 209 | 1 | 14 | 275 |
+| 360d | 2025-11-17 | 0 | 245 | 379 | 2 | 25 | 485 |
+| last720d | 2024-11-22 | 0 | 245 | 379 | 2 | 25 | 661 |
 
 ## Distribution status
 
@@ -55,7 +55,7 @@ Reported by **3** distros on [repology.org](https://repology.org/project/skills)
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.7.6` | ✅ latest |
+| Homebrew | `1.8.0` | ✅ latest |
 | Nix unstable | `1.7.4` | ⚠️ outdated |
 
 ## Improve this data
@@ -67,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:56:46Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T06:59:40Z._
