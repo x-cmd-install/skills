@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: skills
   visiblename: skills
-  version: 1.8.1
+  version: 1.9.0
   origversion: null
   status: newest
   summary: Open agent skills ecosystem
@@ -19,7 +19,7 @@
 - repo: nix_unstable
   srcname: skills
   visiblename: skills
-  version: 1.7.4
+  version: 1.8.1
   origversion: null
   status: outdated
   summary: The open agent skills tool
