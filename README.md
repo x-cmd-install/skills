@@ -32,22 +32,22 @@ Total: **84,781** lines of code across **400** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,215 · **Forks**: 681 · **Open issues**: 27 · **Contributors**: 85
+- **Stars**: 1,215 · **Forks**: 684 · **Open issues**: 27 · **Contributors**: 85
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 247 · **Open PRs**: 387 · **Closed issues**: 2 · **Open issues**: 25 · **Commits**: 663
+- **Releases**: 0 · **Merged PRs**: 247 · **Open PRs**: 392 · **Closed issues**: 2 · **Open issues**: 25 · **Commits**: 663
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 7 | 34 | 0 | 5 | 9 |
-| last60d | 2026-09-21 | 0 | 31 | 67 | 0 | 6 | 30 |
-| 90d | 2026-08-22 | 0 | 60 | 99 | 0 | 7 | 91 |
-| last180d | 2026-05-24 | 0 | 140 | 208 | 1 | 10 | 269 |
-| 360d | 2025-11-25 | 0 | 247 | 387 | 2 | 25 | 487 |
-| last720d | 2024-11-30 | 0 | 247 | 387 | 2 | 25 | 663 |
+| 30d | 2026-10-22 | 0 | 7 | 37 | 0 | 5 | 9 |
+| last60d | 2026-09-22 | 0 | 30 | 71 | 0 | 6 | 30 |
+| 90d | 2026-08-23 | 0 | 60 | 103 | 0 | 7 | 91 |
+| last180d | 2026-05-25 | 0 | 138 | 213 | 1 | 10 | 269 |
+| 360d | 2025-11-26 | 0 | 247 | 392 | 2 | 25 | 487 |
+| last720d | 2024-12-01 | 0 | 247 | 392 | 2 | 25 | 663 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:03:04Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:03:32Z._
