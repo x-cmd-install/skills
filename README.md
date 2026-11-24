@@ -42,12 +42,12 @@ Total: **84,781** lines of code across **400** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 5 | 39 | 0 | 5 | 7 |
-| last60d | 2026-09-24 | 0 | 30 | 74 | 0 | 6 | 27 |
-| 90d | 2026-08-25 | 0 | 56 | 105 | 0 | 7 | 71 |
-| last180d | 2026-05-27 | 0 | 137 | 211 | 1 | 10 | 258 |
-| 360d | 2025-11-28 | 0 | 247 | 396 | 2 | 25 | 487 |
-| last720d | 2024-12-03 | 0 | 247 | 396 | 2 | 25 | 663 |
+| 30d | 2026-10-25 | 0 | 5 | 37 | 0 | 5 | 7 |
+| last60d | 2026-09-25 | 0 | 30 | 72 | 0 | 6 | 27 |
+| 90d | 2026-08-26 | 0 | 55 | 101 | 0 | 7 | 71 |
+| last180d | 2026-05-28 | 0 | 136 | 210 | 1 | 8 | 258 |
+| 360d | 2025-11-29 | 0 | 247 | 396 | 2 | 25 | 487 |
+| last720d | 2024-12-04 | 0 | 247 | 396 | 2 | 25 | 663 |
 
 ## Distribution status
 
@@ -67,4 +67,4 @@ Install metadata for skills lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:37:56Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:48:19Z._
