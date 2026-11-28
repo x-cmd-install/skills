@@ -2,25 +2,25 @@ about:
   description: "Bankr Skills equip builders with plug-and-play tools to build more powerful agents."
   license: NOASSERTION
   homepage: https://skills.bankr.bot/
-  head: 63a0688
+  head: 3cd566d
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:08:04Z
+  collectedAt: 2026-11-28T07:32:46Z
 timeline:
   created: 2026-01-26
-  lastCommit: 2026-11-16
+  lastCommit: 2026-11-27
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
   star: 1221
   watcher: 14
-  fork: 693
+  fork: 694
   release: 0
-  contributor: 85
-  pullRequest: 761
+  contributor: 86
+  pullRequest: 766
   issue: 27
 language:
   JavaScript: 852595
@@ -33,66 +33,66 @@ language:
 totalBytes: 1300633
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 5
-    openPR: 43
+    mergedPR: 6
+    openPR: 47
     closedIssue: 0
     openIssue: 5
-    commit: 0
+    commit: 8
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 26
-    openPR: 78
+    mergedPR: 27
+    openPR: 81
     closedIssue: 0
     openIssue: 6
-    commit: 0
+    commit: 28
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 51
-    openPR: 106
+    mergedPR: 52
+    openPR: 110
     closedIssue: 0
     openIssue: 7
-    commit: 0
+    commit: 72
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 132
+    mergedPR: 131
     openPR: 212
     closedIssue: 1
     openIssue: 8
-    commit: 0
+    commit: 259
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 247
-    openPR: 403
+    mergedPR: 248
+    openPR: 407
     closedIssue: 2
     openIssue: 25
-    commit: 0
+    commit: 488
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 247
-    openPR: 403
+    mergedPR: 248
+    openPR: 407
     closedIssue: 2
     openIssue: 25
-    commit: 663
+    commit: 664
 total:
   release: 0
-  mergedPR: 247
-  openPR: 403
+  mergedPR: 248
+  openPR: 407
   closedIssue: 2
   openIssue: 25
-  commit: 663
+  commit: 664
 ---
 path: /home/runner/.x-repo/github.com/BankrBot/skills
-collectedAt: 2026-11-27T08:08:06Z
+collectedAt: 2026-11-28T07:32:48Z
 loc:
   Json:
-    code: 58778
+    code: 59191
     comments: 0
     blanks: 0
     files: 220
@@ -143,18 +143,18 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 60022
-    blanks: 23341
-    files: 628
+    comments: 60853
+    blanks: 23512
+    files: 629
   Text:
     code: 0
     comments: 49
     blanks: 5
     files: 4
 total:
-  code: 109615
-  comments: 64778
-  blanks: 28402
-  files: 1041
+  code: 110105
+  comments: 65609
+  blanks: 28573
+  files: 1042
 ---
 
